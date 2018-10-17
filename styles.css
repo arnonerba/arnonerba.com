@@ -177,8 +177,8 @@ a.card-link:hover {
 }
 
 ::selection {
-    background: #B3D4FC;
-    text-shadow: none;
+	background: #B3D4FC;
+	text-shadow: none;
 }
 
 ::-moz-selection {
