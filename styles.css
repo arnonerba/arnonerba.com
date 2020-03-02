@@ -2,6 +2,12 @@
 	font-family: 'PX Sans Nouveaux';
 	src: url('fonts/PX Sans Nouveaux.ttf') format('truetype');
 }
+*/
+
+@font-face {
+	font-family: 'MS Sans Serif';
+	src: url('fonts/MS Sans Serif.ttf') format('truetype');
+}
 
 html {
 	box-sizing: border-box;
