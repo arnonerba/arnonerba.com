@@ -96,10 +96,6 @@ a:active {
 	color: rgb(238,0,0);
 }
 
-hr {
-	margin: 8px 0;
-	border: 0;
-	border-top: 2px dashed rgb(0,0,0);
 a:visited {
 	color: rgb(85,26,139);
 }
