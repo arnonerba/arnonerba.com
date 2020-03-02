@@ -102,6 +102,7 @@ a:visited {
 
 .window {
 	max-width: 800px;
+	min-width: 300px;
 	margin: 8px;
 	background-color: rgb(191,191,191);
 }
